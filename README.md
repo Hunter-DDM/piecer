@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project contains the main code to train and evaluate four base MRC models (QANet, BERT-base, BERT-large, RoBERTa-base) + PIECER.  Due to the size limit of the uploaded file, we do not include data in the project. The full project, including code, data, dependencies, and configurations will be released once this paper is accepted. 
+This project contains the main code to train and evaluate four base MRC models (QANet, BERT-base, BERT-large, RoBERTa-base) + PIECER. 
 
 ## Usage
 
